@@ -2,7 +2,7 @@
 
 class Item(object):
     title = None
-    description = None
+    detail = None
 
     def __init__(self):
         ''
